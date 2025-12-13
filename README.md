@@ -23,6 +23,69 @@
 
 
 
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asumiz&show_icons=true&theme=dark&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF&text_color=9AEAFF&card_width=150)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asumiz&layout=compact&card_width=300)
+
+
+<div align="center">
+  
+## 🖥️ Tech Stack
+
+</div>
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2F2F2F?style=for-the-badge&logo=security&logoColor=white)
+![IBM Guardium](https://img.shields.io/badge/IBM_Guardium-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-1F1F1F?style=for-the-badge&logo=metasploit&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div> 
+
+<div align="center">
+  
+### 🔗 Connect with me
+</div>
+
+<div align="center"> 
+  
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gustavosilvalaguerre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavolaguerre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+##
+<div align="center">
+
+![snake gif](https://github.com/Asumiz/Asumiz/blob/output/github-snake-dark.svg)
+
+</div>
+
+<div align="center">
+
+ ![👁️ Profile Views](https://komarev.com/ghpvc/?username=Asumiz&label=%F0%9F%91%81%20PROFILE%20VIEWS&style=for-the-badge&color=8A2BE2)
+
+
+
+</div>
+
 ---
 
 ## 🚀 Professional Overview
@@ -98,15 +161,12 @@ I work directly with **enterprise security environments**, focusing on the prote
 
 - Deploy and operate **IBM Guardium**
 - Design **PAM and DAM policies**
-  ###
 - Perform:
     * **health checks**
     * **evidence collection**
     * **log analysis**
-  ###
 - Automate security tasks and routines
 - Support **cloud security architecture**
-  ###
 - Assist with:
    * **network security design and**
    * **troubleshooting**
@@ -120,25 +180,7 @@ I work directly with **enterprise security environments**, focusing on the prote
   </tr>
 </table>
 
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asumiz&show_icons=true&theme=dark&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF&text_color=9AEAFF&card_width=200)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asumiz&layout=compact&card_width=300)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
-##
-
-<div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gustavosilvalaguerre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavolaguerre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
----
+--- 
 
 
 ## ⚡ Mindset

@@ -9,8 +9,8 @@
     </td>
     <td style="border:none;">
       
-> 🛡️ **Cybersecurity | Data Protection | PAM | IBM Guardium**  
-> 🌐 **Computer Networks • Security • Corporate Environments**
+> 🛡️ **Cybersecurity | Data Protection | PAM | DAM**
+> 🌐 **Computer Networks • Security**
     </td>
     <td style="border:none;" align="right">
       <img 

@@ -110,7 +110,7 @@
 
 I work directly with **enterprise security environments**, focusing on the protection of sensitive data, privileged access control, monitoring, and security automation. My daily routine involves diagnostics via CLI, log analysis, report creation for compliance, and infrastructure hardening across on-premises and cloud environments.
 
-## 
+## Linkedin
 
 <div> 
   <a href="https://www.linkedin.com/in/gustavolaguerre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -161,14 +161,14 @@ I work directly with **enterprise security environments**, focusing on the prote
 - Deploy and operate **IBM Guardium**
 - Design **PAM and DAM policies**
 - Perform:
-    * **health checks**
-    * **evidence collection**
-    * **log analysis**
+* **health checks**
+* **evidence collection**
+* **log analysis**
 - Automate security tasks and routines
 - Support **cloud security architecture**
 - Assist with:
-   * **network security design and**
-   * **troubleshooting**
+* **network security design and**
+* **troubleshooting**
   </td>
     <td style="border:none;" align="right">
       <img 

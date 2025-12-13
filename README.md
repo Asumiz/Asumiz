@@ -10,7 +10,6 @@
     <td style="border:none;">
       
 > 🛡️ **Cybersecurity | Data Protection | PAM | DAM |**
-> > 🌐 **Computer Networks • Security**
     </td>
     <td style="border:none;" align="right">
       <img 

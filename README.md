@@ -92,29 +92,37 @@ I work directly with **enterprise security environments**, focusing on the prote
       <img 
         src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh0eW52cGJncDk1dHZjd3drcWMwZHFjNnk1cDd2MDNxNW9qNWVlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"
         alt="Cyber HUD animation"
-        width="180"/>
+        width="200"/>
     </td>
     <td style="border:none;">
 
-- Deploy and operate **IBM Guardium**  
-- Design **PAM and DAM policies** aligned with compliance  
-- Perform **health checks, evidence collection and log analysis**  
-- Automate security tasks and operational routines  
-- Support **cloud security architecture**, IAM and hardening  
-- Assist with **network security design and troubleshooting**
+- Deploy and operate **IBM Guardium**
+- Design **PAM and DAM policies**
+  ###
+- Perform:
+    * **health checks**
+    * **evidence collection**
+    * **log analysis**
+  ###
+- Automate security tasks and routines
+- Support **cloud security architecture**
+  ###
+- Assist with:
+   * **network security design and**
+   * **troubleshooting**
   </td>
     <td style="border:none;" align="right">
       <img 
         src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh0eW52cGJncDk1dHZjd3drcWMwZHFjNnk1cDd2MDNxNW9qNWVlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"
         alt="Cyber HUD animation"
-        width="180"/>
+        width="200"/>
     </td>
   </tr>
 </table>
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asumiz&show_icons=true&theme=dark&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF&text_color=9AEAFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asumiz&layout=compact&card_width=500)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asumiz&show_icons=true&theme=dark&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF&text_color=9AEAFF&card_width=200)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asumiz&layout=compact&card_width=300)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

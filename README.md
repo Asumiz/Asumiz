@@ -24,7 +24,7 @@
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asumiz&show_icons=true&theme=dark&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF&text_color=9AEAFF&card_width=150)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asumiz&layout=compact&card_width=300&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asumiz&layout=compact&card_width=300&cache_seconds=100)
 
 
 <div align="center">
